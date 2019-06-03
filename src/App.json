@@ -1,0 +1,38 @@
+{
+    "brand": {
+        "title": "Brand",
+        "images": [
+            {
+                "title": "ASUS",
+                "url": "https://f.ecimg.tw/img/h24/v1/layout/index/1/20190119172039_b363-2-260x120.jpg"
+            },
+            {
+                "title": "GARMIN",
+                "url": "https://c.ecimg.tw/img/h24/v1/layout/index/1/20190121105452_b383-2-260x120.jpg"
+            },
+            {
+                "title": "SAMSUNG",
+                "url": "https://f.ecimg.tw/img/h24/v1/layout/index/1/20190121105726_b403-2-260x120.jpg"
+            },
+            {
+                "title": "Apple",
+                "url": "https://b.ecimg.tw/img/h24/v1/layout/index/1/20190119172156_b373-2-260x120.jpg"
+            }
+    ]
+    },
+    "ad": {
+        "title": "Ad",
+        "images": [
+            {
+                "title": "AD1",
+                "url": "https://e.ecimg.tw/img/h24/v1/layout/index/1/20190603180109_b133-3-500x330.jpg"
+            }, {
+                "title": "AD2",
+                "url": "https://d.ecimg.tw/img/h24/v1/layout/index/1/20190603180957_b113-3-500x330.jpg"
+            }, {
+                "title": "AD3",
+                "url": "https://c.ecimg.tw/img/h24/v1/layout/index/1/20190603114858_b213-3-500x330.jpg"
+            }
+        ]
+    }
+}
