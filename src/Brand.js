@@ -11,12 +11,12 @@ class Brand extends Component {
                     onClick={toggleOpen}>{data.title}</button>
                 <div className={styles['box__list']}>
                 {
-                    open && data.images.map((img, idx) => {
+                    open && data.images.map(({title, url}, idx) => {
                         return (
                             <img
-                                key={`${img.title + idx }`}
-                                alt={img.title}
-                                src={img.url}
+                                key={`${title + idx }`}
+                                alt={title}
+                                src={url}
                             />
                         );
                     })
